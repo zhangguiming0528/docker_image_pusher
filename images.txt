@@ -1,3 +1,4 @@
 redis
 postgres
 kdvolder/jdk8
+openjdk:8
